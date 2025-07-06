@@ -1,6 +1,6 @@
 # alx-intermediate-frontend
 
----
+***
 
 # Part 1: Semantic HTML: Best Practices for Accessibility and SEO
 

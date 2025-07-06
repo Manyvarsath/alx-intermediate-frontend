@@ -2,10 +2,10 @@
 
 # Part 1: Semantic HTML: Best Practices for Accessibility and SEO
 
-### About the Project
+### Description
 This project focuses on building a solid foundation in **Semantic HTML** while emphasizing **accessibility**, **SEO optimization**, and the implementation of **ARIA roles** for enhanced usability. Through incremental tasks, learners will structure and enhance a web page to make it not only visually structured but also optimized for screen readers and search engines. By the end of the project, learners will understand the importance of semantic elements and accessibility features in modern web development.
 
-### Learning Objectives
+### Objectives
 - **Master Semantic HTML**: Learn to structure web pages using semantic elements such as `<header>`, `<main>`, `<article>`, `<section>`, and `<footer>` for better content organization and accessibility.
 - **Optimize for SEO**: Understand how to improve the visibility of your webpage through appropriate usage of meta tags and proper document structure.
 - **Enhance Accessibility**: Implement **ARIA roles** and attributes to make web forms and content more accessible to users with disabilities.
@@ -22,10 +22,10 @@ This project focuses on building a solid foundation in **Semantic HTML** while e
 
 # Part 2: CSS Grid and Flexbox: Creating Complex, Responsive Layouts using Tailwind
 
-### Project Description
+### Description
 This project is a hands-on exploration of Tailwind CSS, focusing on building responsive and aesthetically pleasing web layouts. Each task is designed to introduce advanced Tailwind concepts, enabling learners to effectively utilize utility-first CSS for modern web development. Learners will create layouts ranging from basic CSS grids and flexbox navigation bars to complex multi-section layouts that combine both CSS Grid and Flexbox. This progressive approach ensures a deep understanding of responsive design principles while mastering Tailwind CSS.
 
-### Learning Objectives
+### Objectives
 - **Master Tailwind CSS Configuration**: Learn how to install and configure Tailwind CSS, enabling seamless integration into projects.
 - **Build Responsive Layouts**: Implement complex, responsive layouts using Tailwind’s utility classes and responsive modifiers.
 - **Combine CSS Grid and Flexbox**: Develop advanced page structures by leveraging both grid and flexbox techniques.

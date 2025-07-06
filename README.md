@@ -1,7 +1,5 @@
 # alx-intermediate-frontend
 
-***
-
 # Part 1: Semantic HTML: Best Practices for Accessibility and SEO
 
 ### About the Project
@@ -19,6 +17,8 @@ This project focuses on building a solid foundation in **Semantic HTML** while e
 - Familiarity with semantic HTML elements and their purpose.
 - Basic knowledge of **SEO** and its importance in web development.
 - Awareness of **web accessibility standards**, including ARIA roles and attributes.
+
+***
 
 # Part 2: CSS Grid and Flexbox: Creating Complex, Responsive Layouts using Tailwind
 
